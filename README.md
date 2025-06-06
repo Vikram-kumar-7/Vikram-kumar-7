@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Vikram-kumar-7  
+- 👀 I’m interested in software development, C++, and data science  
+- 🌱 I’m currently learning C++ and its applications, and stepping into the world of data science  
+- 💞️ I’m looking to collaborate on beginner-friendly C++ projects, data analysis tasks, and student tech communities  
+- 📫 How to reach me: [kumarvickey2006@gmail.com] | LinkedIn: [https://www.linkedin.com/in/kumar-vikram-aditya-225031309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love connecting dots between logic, code, and real-world problems — turning curiosity into code!
