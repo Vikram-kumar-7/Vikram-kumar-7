@@ -1,4 +1,142 @@
-- 👋 Hi, I’m @Vikram-kumar-7  
++++++++==============----------------------------------------=========  vikram@github
+++++++=============--------------------------------------------=======  -------------
+++++++============------------------------------------------------====  OS: .......................... Windows / Linux
+++++============----------------------------------------------------==  Host: ........................ Shobhit University, Meerut
+++++===========---------------------:::------------------------------=  Kernel: ...................... B.Tech CSE (2024–2028)
++++==========---------------:::---=====---::::-----------------------=  IDE: ......................... VS Code
++++=========-------------::--+*#%%%%%%%%%#*+-::::---------------------
++++========------------:-=*#%%%%%%%%%%%@@@@@%#+-::::------------------  Languages.Programming: ....... C++, Python, JavaScript, Java
+++=========----------::=#%%%%%%%%%%@@@@@@@@@@@@%+-::::::--------------  Languages.Web: ............... React, Node.js, Express
+=========-----------:-+%%%#%%%%##########***#%%%%#-:::::::::----------  Languages.Data: .............. PostgreSQL, MongoDB, SQL
+========----------:::*%%%##*+--:::::::::::---==+*%%-::::::::::--------
+=======----------:::-###%*-:::::::..::::::::---=+*%+::::::::::::------  Focus.Backend: ................ APIs, Async Workflows
+======---------:::::-#%%%#+=----:::..::::::::--=+*%#::::::::::::------  Focus.Systems: ................ Multi-Tenant Systems
+=====---------:::::::*%%%%#+=-::::--------==+++++*%#::::::::::::::----  Focus.AI: ..................... AI-Assisted Tooling
+====--------:::::::::=%@@@#=---=+**####+==*#%%###*#%:::::::::::::::---
+===--------:::::::::::#@@@+--+*#######*+::+#%#%%%#*%-.::::::::::::::--  Contact ----------------------
+===-------::::::::::.:*%@%+:-++*****+=--: .==+***++#*..::::::::::::::-  Email: ....................... kumarvickey2006@gmail.com
+==------::::::::::...:=*#%+--::::::::--:-:-===----=*=....:::::::::::::  LinkedIn: .................... kumar-vikram-aditya-225031309
+=-------:::::::::.....-==**--:::.::-==+####%%*+=--=*=......:::::::::::  GitHub: ...................... Vikram-kumar-7
+=------::::::::.......:--*%+------====*#%##%%##*+++*+.......::::::::::
+------::::::::.........::+%#+==++=+*#%#*++++*#%%#**%*.......::::::::::
+-----::::::::............-%@%#***++#*+===+***+=+*#%@+........:::::::::
+-----:::::::............ .+%@%%#%#**+=---=+**++*#%@@=.........::::::::
+-----::::::............   :#@@@@@%%%%#######%%%%@@@*...........:::::::
+----:::::::............   :+*%@@@@@@@@@@@@@@@@@@@@+............:::::::
+----:::::::..........    -*=+*#@@@@@@@@@@@@@@@@@%-  ............::::::
+----::::::..........   .+##++++*#%@@@@@@@@@@@@@%#%=. ...........::::::
+---:::::::..........  :*%%##*++++**#%%%@@@@@@%###@@#:............:::::
+---::::::............=#%%%%%%#*++++**###%%%%%###%@@@%=...........:::::
+## Hi, I'm Kumar VikramBackend-Focused Software Engineer · Full-Stack & AI SystemsAI Systems**
+
+B.Tech Computer Science and Engineering student at Shobhit University, Meerut, building backend-heavy applications and AI-assisted software systems.
+
+I primarily work with Node.js, Express, React, PostgreSQL, and MongoDB. My focus is on API design, multi-tenant systems, asynchronous workflows, data processing, and reliable AI integration.
+
+I prefer building systems whose architecture, failure behaviour, and implementation decisions I can explain at the code level.
+
+---
+
+### 🔭 CurrentlCodeGuard*CodeGuard**
+Code similarity and analysis platform focused on deterministic comparison pipelines and structural code analysis.
+
+Current work includes improving analysis reliability, explicit output provenance, ambiguity handling, bounded repair behaviour, and regression coverage before expanding the structural analysis pipeline.
+
+*Focus: Code Analysis · Similarity Pipelines · Deterministic Processing · API Contracts*
+
+---
+
+### 🚀 Featured EngineSkillGap Analyzerp Analyzer**
+AI-assisted career intelligence platform that evaluates placement readiness across resume analysis, DSA progress, GitHub activity, and interview performance.
+Built 21 REST API endpoints covering resume analysis, DSA tracking, GitHub scoring, interview evaluation, and placement-readiness workflows.
+- Designed an interview module with 60+ questions and 4-axis response scoring.
+- Integrated Supabase Auth, PostgreSQL, and Row Level Security for authenticated data access.
+- Used BullMQ and Redis for asynchronous processing workflows.
+- Implemented a multi-provider AI fallback chain with bounded 15-second provider timeouts before rule-based fallback.
+- Structured GitHub and DSA analysis as separate scoring inputs within the placement-readiness workflow.
+
+Stack: React · Node.js · Express · PostgreSQL · Supabase · Redis · BullMQ
+
+Repository: [github.com/Vikram-kumar-7/Skill-gap-Analyzer](https://github.com/Vikram-kumar-7/Skill-gap-Analyzer)
+Live: [skill-gap-analyzer-henna.vercel.app](https://skill-gap-analyzer-henna.vercel.app)
+
+---
+
+Aethra
+Multi-tenant AI-assisted business operations platform combining CRM workflows with an AI copilot.
+
+- Designed tenant-aware application workflows for business data isolation.
+- Integrated Gemini function calling for tool-driven AI interactions.
+- Used Server-Sent Events for streaming AI responses to the client.
+- Connected AI-assisted workflows with CRM operations and external service integrations.
+- Explored WhatsApp-integrated business workflows within a multi-tenant application model.
+
+Stack: React · Node.js · Express · Gemini · SSE · Multi-Tenant Architecture
+
+Live: [aethra-psi.vercel.app](https://aethra-psi.vercel.app)
+
+---
+
+TenantCore
+Backend-focused multi-tenant SaaS project exploring tenant-aware application infrastructure.
+
+- Worked on tenant-scoped backend workflows.
+- Explored OAuth-based authentication and subscription lifecycle handling.
+- Used Docker for application environment consistency.
+- Structured the project around reusable SaaS backend concerns rather than a single product workflow.
+
+Stack: Node.js · Express · Docker · OAuth · Stripe
+
+---
+
+### 🧪 Other Work
+
+VitalSync
+Emergency health monitoring application developed during HackCraft 4.0.
+
+Achievement: Top 15 among 60+ participating teams.
+
+---
+
+### 🛠 Technical Stack
+
+Languages: C++ · JavaScript · Python · Java
+Frontend: React · Vite · Tailwind CSS
+Backend: Node.js · Express · REST APIs
+Databases: PostgreSQL · MongoDB · SQL
+Backend Infrastructure: Redis · BullMQ · Docker
+AI Integration: LLM APIs · Function Calling · Structured AI Workflows · Provider Fallback Handling
+Developer Tools: Git · GitHub · VS Code
+
+---
+
+### 📚 Currently Studying
+
+- Data Structures and Algorithms in C++
+- Computer Networks
+- Backend System Design
+- Distributed Systems Fundamentals
+- Reliable AI Integration Patterns
+
+---
+
+### 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikram-kumar-7&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-kumar-7&layout=compact&hide_border=true)
+
+---
+
+### 📫 Connect
+
+Email: kumarvickey2006@gmail.com
+LinkedIn: [linkedin.com/in/kumar-vikram-aditya-225031309](https://linkedin.com/in/kumar-vikram-aditya-225031309/)
+GitHub: [github.com/Vikram-kumar-7](https://github.com/Vikram-kumar-7)
+
+*Build the system. Understand the trade-offs. Defend the implementation.*- 
+
+
+👋 Hi, I’m @Vikram-kumar-7  
 - 👀 I’m interested in software development, C++, and data science  
 - 🌱 I’m currently learning C++ and its applications, and stepping into the world of data science  
 - 💞️ I’m looking to collaborate on beginner-friendly C++ projects, data analysis tasks, and student tech communities  
